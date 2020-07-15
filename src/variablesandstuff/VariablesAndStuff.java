@@ -17,7 +17,7 @@ public class VariablesAndStuff {
      System.out.print("Are you a male: ");
         boolean male = input.nextBoolean();
         String female = "not";
-        female = male ? "He" : "She";
+        female = male ? "He" : "Her";
 
         
      
